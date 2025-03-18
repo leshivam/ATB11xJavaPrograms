@@ -2,7 +2,7 @@ package ex_04_Operators;
 
 
 
-public class Lab_054_Interview {
+public class Lab054_Interview {
     public static void main(String[] args) {
 
 
