@@ -1,6 +1,6 @@
 package ex_05_Typecasting;
 
-public class Lab061_Typecasting {
+public class Lab061_Typecasting_Used {
     public static void main(String[] args) {
         int course = 100;
         float GST = 18.45f;
